@@ -1,0 +1,27 @@
+div {
+    margin: 20px;
+}
+
+h1,p {
+    color: white;
+    font-weight: 600;
+}
+
+
+h1 {
+    font-size: 70px;
+    text-shadow: 1px 3px 2px black;
+}
+
+.main-introduction {
+    width: 60%;
+}
+
+.main-aside {
+    width: 40%;
+
+    p {
+        text-align: justify;
+    }
+
+}
