@@ -1,0 +1,42 @@
+header {
+
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+
+    #header{
+        background-image: url('../../../assets/images/website-background-templates.png');
+        border-radius: 30px;
+        
+
+        padding: 20px;
+        height: 90vh;
+        width: 98vw;
+       
+    
+        #header-top {
+            display: flex;
+            justify-content: end;
+
+            width: 100%;
+            height: 50%;
+
+            div {
+                width: 100%;
+            }
+        }
+
+        #header-bottom {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            width: 100%;
+            height: 50%;
+        }
+    }
+}
+
+main {
+    margin: 50px 30px;
+}
